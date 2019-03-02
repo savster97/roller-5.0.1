@@ -1,0 +1,12 @@
+exclude:
+- /bin/.*
+- /lib/.*
+- /weblogger-docs/devguide/.*
+- /weblogger-docs/examples/configs/.*
+- /weblogger-docs/examples/macros/.*
+- /weblogger-docs/examples/rollertask/.*
+- /weblogger-docs/examples/scripting/.*
+- /weblogger-docs/installguide/.*
+- /weblogger-docs/templateguide/.*
+- /weblogger-docs/testing/.*
+- /weblogger-docs/userguide/.*
