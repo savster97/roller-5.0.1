@@ -5,7 +5,8 @@ exclude:
   - /weblogger-docs/examples/configs/.*
   - /weblogger-docs/examples/macros/.*
   - /weblogger-docs/examples/rollertask/.*
-  - /weblogger-docs/examples/scripting/.*
+  - /weblogger-docs/examples/scripting/bsf/lib/.*
+  - /weblogger-docs/examples/scripting/groovy/examples/.*
   - /weblogger-docs/installguide/.*
   - /weblogger-docs/templateguide/.*
   - /weblogger-docs/testing/.*
@@ -19,6 +20,7 @@ include:
   - /weblogger-business/src/.*
   - /weblogger-docs/examples/plugins/pluginmodel/src/.*
   - /weblogger-docs/examples/scripting/bsf/src/.*
+  - /weblogger-docs/examples/scripting/groovy/src/.*
   - /weblogger-docs/examples/scripting/groovy/src/.*
   - /weblogger-war-assembly/src/.*
   - /weblogger-web/src/.*
